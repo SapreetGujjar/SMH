@@ -6,7 +6,7 @@
 * `apt upgrade`
 * `pkg install git`
 * `git clone https://github.com/SapreetGujjar/SMH.git`
-* `cd SMF`
+* `cd SMH`
 * `bash install.sh`
 * `bash Social Media.sh`
 
